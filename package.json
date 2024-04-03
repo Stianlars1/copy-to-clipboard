@@ -9,7 +9,19 @@
     "copy",
     "utility",
     "javascript",
-    "react"
+    "react",
+    "copy paste",
+    "clipboard API",
+    "copy to clipboard",
+    "javascript clipboard",
+    "clipboard utility",
+    "web clipboard",
+    "clipboard access",
+    "copy button",
+    "react copy",
+    "vue copy",
+    "javascript copy",
+    "angular copy"
   ],
   "scripts": {
     "build": "tsc",
