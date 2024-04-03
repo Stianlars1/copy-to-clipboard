@@ -76,7 +76,7 @@ Contributions to `@stianlarsen/copy-to-clipboard` are welcome!
 
 ## License
 
-`@stianlarsen/copy-to-clipboard` is [ISC licensed](./LICENSE).
+`@stianlarsen/copy-to-clipboard` is [MIT licensed](./LICENSE).
 
 ## Contact
 
