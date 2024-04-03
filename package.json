@@ -1,0 +1,32 @@
+{
+  "name": "@stianlarsen/copy-to-clipboard",
+  "version": "1.0.0",
+  "description": "A lightweight and modern JavaScript utility function to copy text to the clipboard in web browsers that support the Clipboard API (with fallback support). Ideal for use in web applications and React projects (Javascript).",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "clipboard",
+    "copy",
+    "utility",
+    "javascript",
+    "react"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stianlars1/copy-to-clipboard.git"
+  },
+  "author": "Stian Larsen",
+  "license": "ISC",
+  "publisher": "Stian Larsen",
+  "bugs": {
+    "url": "https://github.com/stianlars1/copy-to-clipboard/issues"
+  },
+  "homepage": "https://github.com/stianlars1/copy-to-clipboard#readme",
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  }
+}
