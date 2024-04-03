@@ -1,6 +1,6 @@
 {
   "name": "@stianlarsen/copy-to-clipboard",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A lightweight and modern JavaScript utility function to copy text to the clipboard in web browsers that support the Clipboard API (with fallback support). Ideal for use in web applications and React projects (Javascript).",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
