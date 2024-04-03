@@ -20,7 +20,7 @@
     "url": "git+https://github.com/stianlars1/copy-to-clipboard.git"
   },
   "author": "Stian Larsen",
-  "license": "ISC",
+  "license": "MIT",
   "publisher": "Stian Larsen",
   "bugs": {
     "url": "https://github.com/stianlars1/copy-to-clipboard/issues"
