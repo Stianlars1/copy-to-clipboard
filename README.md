@@ -2,9 +2,6 @@
 
 A robust, easy-to-use utility for copying text to the clipboard with a simple function call. Perfect for developers looking to implement a copy-to-clipboard feature in their web applications with minimal effort.
 
-![Copy to Clipboard Function Preview](https://github.com/Stianlars1/react-package-paster/blob/6a5955ce2dd954c06004851829502681268a07c6/images/packageManager.png)
-_Copy to Clipboard function in action_
-
 ## Features
 
 - **Secure Clipboard Access**: Utilizes the modern asynchronous Clipboard API with a fallback for older browsers.
